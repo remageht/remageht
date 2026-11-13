@@ -7,6 +7,12 @@ I build private, offline-first tools that run on your hardware — no cloud, no 
 
 **Focus:** Local-first apps · DevOps automation · 3D / retro-emu · PWA / Tauri / Flutter · Self-hosted infra
 
+## Project hub
+
+**[Emir Lab](https://project-lab-7kr8xl7je95.qoder.website)** — my applications, games and DevOps experiments in one responsive, animated hub. Explore real projects, their source code and ready-to-download releases.
+
+[Hub source code](https://github.com/remageht/project-hub)
+
 ## Now
 
 **[astro-voyager](https://github.com/remageht/astro-voyager)** — story-driven 3D space simulator (v4.6.2 RC): 7-chapter campaign, 6 multiverse endings + epilogue cinematic, relativistic raytracing in Schwarzschild & Kerr metrics (RK4), planetary landing, science spectrometer & Codex, orbital stations & shipyard, procedural PBR, WASD flight, 1000x warp. C++17, OpenGL 3.3 / GLSL, CMake, Windows + Linux + Docker. CI + releases.
